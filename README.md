@@ -8,6 +8,6 @@ A comprehensive system for **Aspect-based Sentiment Analysis (ABSA)** on Vietnam
 
 ## 🚀 Key Features
 
-* [cite_start]**Multi-task Learning:** Jointly learns two tasks: Aspect Category Detection (ACD) and Sentiment Polarity Classification (SPC) using a unified architecture.
-* [cite_start]**PhoBERT Backbone:** Utilizes pre-trained **PhoBERT** embeddings for state-of-the-art Vietnamese language understanding.
-* [cite_start]**Data Augmentation:** Implemented **Back-translation** (Vietnamese ↔ English) to enrich the training dataset and improve model generalization on unseen text.
+* **Multi-task Learning:** Jointly learns two tasks: Aspect Category Detection (ACD) and Sentiment Polarity Classification (SPC) using a unified architecture.
+* **PhoBERT Backbone:** Utilizes pre-trained **PhoBERT** embeddings for state-of-the-art Vietnamese language understanding.
+* **Data Augmentation:** Implemented **Back-translation** (Vietnamese ↔ English) to enrich the training dataset and improve model generalization on unseen text.
